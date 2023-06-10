@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4pazBIZolZvdI1u2dU5UvxSmHcHCP3hs65yUAtMu30X6gUqBb7/M5cKBjKS94D/GIenD4Od+DTKUhsFyA9QNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LinQuid\\source\\repos\\LibExample\\LibExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LinQuid\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
